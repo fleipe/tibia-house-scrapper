@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Python script utilizes Selenium to scrape information about rented houses in the popular online game Tibia. It allows users to specify a world and town, navigate to the Tibia website, and extract details about houses marked as "passed by" or any other relevant information.
+This Python script utilizes Selenium to scrape information about rented houses in the popular online game Tibia. It allows users to specify a world and town, navigate to the Tibia website, and extract details about houses marked as "moving out" or any other relevant information.
 
 ## Features
 
