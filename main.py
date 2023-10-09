@@ -14,7 +14,7 @@ def initialize_driver():
         :return: A webdriver object
 
     :return: A webdriver object
-    :doc-author: Trelent
+    :doc-author: Felipe Linares
     """
 
     options = Options()
@@ -29,7 +29,7 @@ def access_tibia(driver):
 
     :param driver: Webdriver
     :return: The driver
-    :doc-author: Trelent
+    :doc-author: Felipe Linares
     """
     try:
         # Open the TIBIA website
@@ -51,7 +51,7 @@ def select_world(driver, world_query, town_query):
     :param world_query: Select the world that you want to search for houses in
     :param town_query: Select the town that you want to search for houses in
     :return: The driver with the new tab open
-    :doc-author: Trelent
+    :doc-author: Felipe Linares
     """
     driver = access_tibia(driver)
 
@@ -94,7 +94,7 @@ def navigate(driver, world_query):
     :param driver: Pass the driver object to the function
     :param world_query: Specify which world to search for
     :return: The content of the views
-    :doc-author: Trelent
+    :doc-author: Felipe Linares
     """
     actions = ActionChains(driver)
 
@@ -131,7 +131,7 @@ def main():
     It initializes a driver, selects a world and town, and then quits.
 
     :return: The driver
-    :doc-author: Trelent
+    :doc-author: Felipe Linares
     """
     with open("Towns", "r") as f:
         towns = f.readlines()

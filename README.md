@@ -37,7 +37,7 @@ This Python script utilizes Selenium to scrape information about rented houses i
 
 2. Run the script:
 
-  ```bash
-  python tibia_house_scraper.py
+   ```bash
+   python tibia_house_scraper.py
 
 ### Feel free to contribute and open issues for any suggestions or improvements!
