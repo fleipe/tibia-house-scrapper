@@ -1,0 +1,36 @@
+Esuph IV c
+This house can have up to 2 beds.
+
+The house has a size of 23 square meters. The monthly rent is 80k gold and will be debited to the bank account on Astera.
+
+The house has been rented by Teda Orain. He has paid the rent until Oct 12 2023, 10:05:51 CEST. He will move out on Oct 15 2023, 10:00:00 CEST (time of daily server save) and will pass the house to The King Kaito for 0 gold coins.
+
+ ---------------------------------------
+
+Rathal I a
+This house can have up to 2 beds.
+
+The house has a size of 26 square meters. The monthly rent is 80k gold and will be debited to the bank account on Astera.
+
+The house has been rented by Said tobe. He has paid the rent until Oct 15 2023, 10:05:38 CEST. He will move out on Oct 09 2023, 10:00:00 CEST (time of daily server save) and will pass the house to Craffthxd for 0 gold coins.
+
+ ---------------------------------------
+
+Senja Village 1a
+This house can have up to 1 bed.
+
+The house has a size of 17 square meters. The monthly rent is 25k gold and will be debited to the bank account on Astera.
+
+The house has been rented by Doomber. He has paid the rent until Nov 01 2023, 09:05:54 CET. He will move out on Oct 09 2023, 10:00:00 CEST (time of daily server save) and will pass the house to Oxyfor for 0 gold coins.
+
+ ---------------------------------------
+
+Coconut Quay 1
+This house can have up to 2 beds.
+
+The house has a size of 37 square meters. The monthly rent is 150k gold and will be debited to the bank account on Astera.
+
+The house has been rented by Bochito Damage. She has paid the rent until Nov 02 2023, 10:47:00 CET. She will move out on Oct 09 2023, 10:00:00 CEST (time of daily server save) and will pass the house to Bochito Healer for 1 gold coins.
+
+ ---------------------------------------
+
