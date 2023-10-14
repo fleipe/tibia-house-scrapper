@@ -113,11 +113,11 @@ def navigate(driver, world_query):
             driver.switch_to.window(window)
             if driver.find_elements(By.CSS_SELECTOR, "input[value = 'Back']"):
                 content = driver.find_elements(By.TAG_NAME, "td")[1].text
-                with open("output_" + world_query + ".txt", "a") as f:
+                with open("Output/output_" + world_query + ".txt", "a") as f:
                     f.write(content + "\n\n ---------------------------------------\n\n")
                 print(content)
                 if "pass the house" in content:
-                    with open("moving_out_" + world_query + ".txt", "a") as f:
+                    with open("Output/moving_out_" + world_query + ".txt", "a") as f:
                         f.write(content + "\n\n ---------------------------------------\n\n")
                 driver.close()
                 driver.switch_to.window(windows[0])
