@@ -41,4 +41,3 @@ This Python script utilizes Selenium to scrape information about rented houses i
    python main.py
 
 ### Feel free to contribute and open issues for any suggestions or improvements!
-## WARNING: Do not push to Master Branch!!
